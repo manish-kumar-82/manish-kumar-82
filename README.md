@@ -13,7 +13,7 @@
 ## 🔥 About Me  
 🎓 **MCA** (Chandigarh University, Distance Learning)  
 💻 Passionate about building backend systems & Shopify apps  
-🛠️ **Tech Stack**: Node.js, Express.js, MongoDB, JavaScript  
+🛠️ **Tech Stack**: Node.js, Express.js, MongoDB, JavaScript, Type-Script, Nest Js 
 
 ---
 
