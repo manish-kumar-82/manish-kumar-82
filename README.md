@@ -1,6 +1,6 @@
 # Hi there, I'm Manish Kumawat! 👋  
 
-🚀 **Backend Developer | MCA Student | Shopify App Developer**  
+🚀 **Backend Developer | MCA Student | Nest Js Developer**  
 
 📍 Ahmedabad, India | ✉️ mk8265408@gmail.com  
 
